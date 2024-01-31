@@ -1,0 +1,16 @@
+body{
+    background-color: darkblue;
+}
+#header{
+    border:2px solid black;
+    text-align:center;
+    background-color:brown;
+}
+.main{
+    border:2px solid black;
+    text-align:center;
+    background-color:green;
+    margin:10px;
+    padding:10px;
+
+}
