@@ -1,0 +1,42 @@
+#BOX{
+  background-color:aqua;
+  display:flex;
+  height:300px;
+  justify-content:space-between;
+  padding:15px;
+  padding-right:60px;
+}
+#Box1{
+    background-color:white;
+    width:100px;
+    text-align:center; 
+}
+#Box2{
+ background-color:white;
+ height:100px;
+ margin-top:100px;
+ margin-down:100px;
+ text-align:center;
+ width:100px;
+}
+#Box3{
+background-color:white;
+height:100px;
+text-align:center;
+width:100px;
+
+}
+#Box4{
+    background-color:white;
+height:100px;
+text-align:center;
+width:100px;
+margin-top:200px;
+
+}
+#Box5{
+    background-color:white;
+    width:100px;
+    text-align:center; 
+
+}
