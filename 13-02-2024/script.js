@@ -61,6 +61,7 @@ const student = {
   
   passingSubjects(student, 70);
   
+  
        
     
 
